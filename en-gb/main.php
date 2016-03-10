@@ -35,6 +35,7 @@ return [
 	'success' => 'Success',
 	'success-delete' => 'Deleted',
 	'none' => 'None',
+	'saved' => 'Saved',
 
     'my-groups' => 'My Groups',
 	'member' => 'Member',

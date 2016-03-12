@@ -91,4 +91,6 @@ return [
 
 	'num-user-associated' => "You are associated with :num groups",
 
+	'not-associated' => 'You are not currently associated with any groups'
+
 ];

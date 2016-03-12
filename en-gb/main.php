@@ -84,6 +84,11 @@ return [
 	'view-calendar' => 'View Calendar',
 	'recent-messages' => 'Recent Messages',
 	'no-messages' => "You haven't sent any messages yet",
-	'no-meetings' => "You haven't created any meetings or events yet"
+	'no-meetings' => "You haven't created any meetings or events yet",
+
+	'no-messages-received' => "Your groups haven't sent any messages yet",
+	'no-meetings-invited' => "You do not have any upcoming meetings or events",
+
+	'num-user-associated' => "You are associated with :num groups",
 
 ];

@@ -38,6 +38,11 @@ return [
 		'not-user' => "The user doesn't currently have a Group Hub account",
 		'remove-them' => 'Remove them!',
 		'success-removed' => 'Manager Removed'
+	],
+
+	'group' => [
+		'title' => 'Group Settings',
+		'saved' => 'The group settings have been successfully saved'
 	]
 
 ];

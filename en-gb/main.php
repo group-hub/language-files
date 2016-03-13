@@ -36,9 +36,11 @@ return [
 	'success-delete' => 'Deleted',
 	'none' => 'None',
 	'saved' => 'Saved',
+	'error' => 'Error',
 
     'my-groups' => 'My Groups',
 	'member' => 'Member',
+	'name' => 'Name',
 
     'calendar' => 'Calendar',
 	'scheduler' => 'Scheduler',

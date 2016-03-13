@@ -29,6 +29,15 @@ return [
 		'create-success' => 'Custom Field Successfully Created',
 		'save-success' => 'Custom Field Successfully Saved',
 		'delete-success' => 'Custom Field Successfully Deleted'
+	],
+
+	'permissions' => [
+		'group-managers' => 'Group Managers',
+		'add-manager' => 'Add Manager',
+		'save-success' => 'User successfully added as a manager',
+		'not-user' => "The user doesn't currently have a Group Hub account",
+		'remove-them' => 'Remove them!',
+		'success-removed' => 'Manager Removed'
 	]
 
 ];

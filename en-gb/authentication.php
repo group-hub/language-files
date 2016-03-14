@@ -52,7 +52,8 @@ return [
     'register' => [
         'title'                             => 'Register',
         'view-terms'                        => 'View Terms',
-        'description'                       => 'Please fill the following details to create a new account',
+        'beta-description'                  => 'The Group Hub beta is free! We have not yet finalised our prices but, as a thank you for taking part, you will be able to continue using Group Hub free for 12 months.',
+        'description'                       => 'Please fill in the following details to create a new account',
         'i-agree'                           => 'I agree with ',
         'terms-of-service'                  => 'Terms of Service',
         'privacy-policy'                    => 'Privacy Policy',

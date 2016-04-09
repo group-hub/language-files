@@ -11,6 +11,9 @@ return [
     |
     */
 
+    "error" => 'Error',
+    'unknown-error' => "Sorry, something's gone wrong. We've been notified and are working on a fix.",
+
     'maintenance' => [
         'title'          => 'Sorry, we’re down for maintenance.',
         'description'    => 'We’ll be back shortly!',

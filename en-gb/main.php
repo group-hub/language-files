@@ -16,10 +16,6 @@ return [
     'group-hub-name'            => 'Group Hub Beta',
     'group-hub-company-name'    => 'Group Hub Limited',
 
-	//Legal Documents
-	'legal-url'     => 'www.grouphub.co.uk',
-	'legal-email'   => 'legal@grouphub.co.uk',
-
     //Generic terms
     'groups' => 'Groups',
 	'group' => 'Group',

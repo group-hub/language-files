@@ -19,6 +19,11 @@ return [
         'description'    => 'We’ll be back shortly!',
     ],
 
+    'private' => [
+        'title' => 'Private Group',
+        'description' => 'You are attempting to view a private group.'
+    ],
+
     '400' => [
         'title'          => 'We are sorry but your request contains bad syntax and cannot be fulfilled.',
     ],

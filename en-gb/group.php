@@ -27,6 +27,11 @@ return [
 	'time-zone' => 'Time Zone',
 	'public-group' => 'Do you want your group public?',
 	'group-url' => 'Group URL',
-	'language'=> 'Language'
+	'language'=> 'Language',
+
+	'url' => 'Group URL',
+	'invalid-url' => 'Please enter a URL',
+	'min-length-url' => 'Please enter a longer URL',
+	'unique-url' => 'Sorry, the URL is already taken'
 
 ];

@@ -35,6 +35,22 @@ return [
 		'content' => 'Hey :name, :group has just posted a new message:',
 		'signature' => 'The Group Hub Team',
 		'sent-by' => 'This message was posted by :sent-by - you can reply directly to this email (this is not sent to the whole group).'
+	],
+
+	'welcome-email' => [
+		'existing-user' => [
+			'subject' => 'Added to Group - :group',
+			'title' => 'You\'ve been added to a new Group!',
+			'content' => ':group has just added you to their group.'
+		],
+
+		'new-user' => [
+			'subject' => ':group is using Group Hub',
+			'title' => ':group is using Group Hub',
+			'content' => ':group uses Group Hub to make group management easy. You will now receive any messages and events created by :group. If you do not know :group, please click "unsubscribe".',
+			'register' => 'You may wish to register on Group Hub to see all of the messages and events in one place. You can also RSVP to events.',
+			'register-button' => 'Register'
+		]
 	]
 
 ];

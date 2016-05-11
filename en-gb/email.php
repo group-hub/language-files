@@ -14,6 +14,7 @@ return [
 	'product-name' => 'Group Hub',
 	'no-reply' => env('NO_REPLY_EMAIL'),
 	'unsubscribe' => 'Unsubscribe',
+	'trademark' => '"Group Hub" is a registered trade mark of Group Hub Limited',
 
 	'unsubscribe-page' => [
 		'title' => 'You\'ve been successfully unsubscribed',

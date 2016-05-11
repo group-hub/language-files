@@ -13,6 +13,12 @@ return [
 
 	'product-name' => 'Group Hub',
 	'no-reply' => env('NO_REPLY_EMAIL'),
+	'unsubscribe' => 'Unsubscribe',
+
+	'unsubscribe-page' => [
+		'title' => 'You\'ve been successfully unsubscribed',
+		'content' => 'You will no longer receive notifications'
+	],
 
 	'activation' => [
 		'subject' => 'Activate Account - Group Hub',

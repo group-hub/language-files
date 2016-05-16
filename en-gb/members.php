@@ -25,6 +25,8 @@ return [
 	'member-details' => 'Member Details',
 	'date-joined' => 'Date Joined',
 	'enter-date-joined' => 'You must enter a valid date the member joined',
+	'send-welcome-email' => 'Send Welcome Email',
+
 	'member-created' => 'Member successfully created',
 	'member-saved' => 'Member successfully saved',
 	'not-recover' => 'You will not be able to recover this member!',

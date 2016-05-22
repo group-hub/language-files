@@ -23,8 +23,6 @@ return [
 	'filtered-members' => '(filtered from _MAX_ total members)',
 
 	'member-details' => 'Member Details',
-	'date-joined' => 'Date Joined',
-	'enter-date-joined' => 'You must enter a valid date the member joined',
 	'send-welcome-email' => 'Send Welcome Email',
 
 	'member-created' => 'Member successfully created',

@@ -52,7 +52,6 @@ return [
 	'new-message' => 'New Message',
 	'all-messages' => 'All Messages',
 	'message' => 'Message',
-	'meetings' => 'Meetings',
 	'events' => 'Events',
 	'meeting' => 'Meeting',
 	'event' => 'Event',
@@ -78,14 +77,14 @@ return [
 
 	'read-only' => 'This is read-only',
 	'future-editable' => 'We will make this editable in the near future',
-	'upcoming-meetings-events' => 'Upcoming Meeting and Events',
+	'upcoming-events' => 'Upcoming Events',
 	'view-calendar' => 'View Calendar',
 	'recent-messages' => 'Recent Messages',
 	'no-messages' => "You haven't sent any messages yet",
-	'no-meetings' => "You haven't created any meetings or events yet",
+	'no-events' => "You haven't created any events yet",
 
 	'no-messages-received' => "Your groups haven't sent any messages yet",
-	'no-meetings-invited' => "You do not have any upcoming meetings or events",
+	'no-events-invited' => "You do not have any upcoming events",
 
 	'num-user-associated' => "You are associated with :num groups",
 

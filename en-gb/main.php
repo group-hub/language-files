@@ -33,6 +33,8 @@ return [
 	'none' => 'None',
 	'saved' => 'Saved',
 	'error' => 'Error',
+	'load-more' => 'Load More',
+	'loading' => 'loading...',
 
     'my-groups' => 'My Groups',
 	'member' => 'Member',

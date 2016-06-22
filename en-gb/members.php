@@ -22,6 +22,8 @@ return [
 	'showing-page' => 'Showing page _PAGE_ of _PAGES_',
 	'filtered-members' => '(filtered from _MAX_ total members)',
 
+	'search-members' => 'Search Members',
+
 	'member-details' => 'Member Details',
 	'send-welcome-email' => 'Send Welcome Email',
 

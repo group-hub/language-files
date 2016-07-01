@@ -1,7 +1,7 @@
 phraseapp:
   access_token: "75caf899a241214d7d9ab63230d3e9e82f557bbec96f3b75fd29b4ebdb8dfdc9"
   file_format: laravel
-push:
+  push:
     sources:
       file: ./en-gb/<tag>.php
   pull:

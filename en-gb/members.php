@@ -32,5 +32,6 @@ return [
 	'not-recover' => 'You will not be able to recover this member!',
 	'deleted' => 'The member has been deleted',
 
-	'unique' => 'A member with this email already belongs to the group'
+	'unique' => 'A member with this email already belongs to the group',
+	'unique-import' => 'The csv file included two or more members with the same email address'
 ];

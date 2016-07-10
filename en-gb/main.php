@@ -86,6 +86,8 @@ return [
 	'no-messages' => "You haven't sent any messages yet",
 	'no-events' => "You haven't created any events yet",
 
+	'view-dashboard' => 'View Dashboard',
+
 	'no-messages-received' => "Your groups haven't sent any messages yet",
 	'no-events-invited' => "You do not have any upcoming events",
 

@@ -24,6 +24,7 @@ return [
     'no' => 'No',
     'save' => 'Save',
 	'delete' => 'Delete',
+	'cancel' => 'Cancel',
 	'new' => 'New',
 	'create' => 'Create',
 	'edit' => 'Edit',

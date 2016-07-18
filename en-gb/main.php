@@ -36,6 +36,11 @@ return [
 	'error' => 'Error',
 	'load-more' => 'Load More',
 	'loading' => 'loading...',
+	'warning' => 'Warning',
+	'next' => 'Next',
+	'please-wait' => 'Please wait...',
+	'finish' => 'Finish',
+	'continue' => 'Continue',
 
     'my-groups' => 'My Groups',
 	'member' => 'Member',

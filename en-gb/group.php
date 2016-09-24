@@ -26,6 +26,8 @@ return [
 	'group-type' => 'Group Type',
 	'time-zone' => 'Time Zone',
 	'public-group' => 'Do you want your group public?',
+	'public-description' => "Public - Anyone with a link can view the group’s space",
+	'private-description' => "Private - Requires members to login before viewing the group’s space",
 	'group-url' => 'Group URL',
 	'language'=> 'Language',
 

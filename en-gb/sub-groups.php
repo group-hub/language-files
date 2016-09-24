@@ -11,7 +11,7 @@ return [
 	|
 	*/
 
-	'description' => 'These let you separate your group into multiple sub groups e.g. committee, Monday night',
+	'description' => 'Sub groups let you target a smaller sub-section of your group for when you send messages and organise events. For example, you might want a committee sub group.',
 	'new-sub-group' => 'New Sub Group',
 	'edit-sub-group' => 'Edit Sub Group',
 	'sub-group-name' => 'Sub Group Name',
